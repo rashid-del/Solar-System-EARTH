@@ -1,2 +1,2 @@
-# Solar-System-EARTH
+# Solar-System-Earth
 Creating solar system usnig of Html and Css
